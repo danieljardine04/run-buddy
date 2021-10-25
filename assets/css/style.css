@@ -75,6 +75,16 @@ body {
         
       }
 
+      .hero h2 {
+          color:#fce138;
+          position: left;
+      }
+
+      .hero p {
+          color: white;
+          text-align: center;
+      }
+
     /* Hero Style End */
     section {
         padding: 60px;
